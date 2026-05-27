@@ -2,7 +2,7 @@
 
 졸업논문입니다
 
-<img width="1653" height="2337" alt="dissertation-01" src="https://github.com/user-attachments/assets/588b4116-dfad-4716-a17b-291a28eb891a" />
+<img width="2134" height="2874" alt="dissertation-1" src="https://github.com/user-attachments/assets/9c614a1a-39e9-4a19-afd6-e9c6b8230016" />
 <img width="1653" height="2337" alt="dissertation-02" src="https://github.com/user-attachments/assets/cc61b1e5-7303-41a8-9a18-b80a3b238110" />
 <img width="1653" height="2337" alt="dissertation-03" src="https://github.com/user-attachments/assets/4a8eb846-710c-4ef1-992c-0e3941195686" />
 <img width="1653" height="2337" alt="dissertation-04" src="https://github.com/user-attachments/assets/0f354079-585e-4fa0-82d7-484df6119d02" />
@@ -21,5 +21,6 @@
 <img width="1653" height="2337" alt="dissertation-17" src="https://github.com/user-attachments/assets/0e214dcc-ad11-4339-a8fa-97860f73c9fd" />
 <img width="1653" height="2337" alt="dissertation-18" src="https://github.com/user-attachments/assets/88d9e7d0-a9e9-4b4b-994c-62e7e9539583" />
 <img width="1653" height="2337" alt="dissertation-19" src="https://github.com/user-attachments/assets/1332688c-f8fc-4626-96c9-3096f2a82f52" />
+<img width="2097" height="750" alt="dissertation-19" src="https://github.com/user-attachments/assets/8cfc832e-66bc-4a01-8c7c-76c8815bb14b" />
 
-[dissertation.pdf](https://github.com/user-attachments/files/28249080/dissertation.pdf)
+[dissertation.pdf](https://github.com/user-attachments/files/28313447/dissertation.pdf)
